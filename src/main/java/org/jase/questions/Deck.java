@@ -1,8 +1,8 @@
 package org.jase.questions;
-
+// Imports .Card.Suit to curtail Suit.values
 import java.util.*;
 import org.jase.questions.Card.Suit;
-//cl
+
 public class Deck {
 // Creates an array to be called upon
     private final List<Card> cards = new ArrayList<>();

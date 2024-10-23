@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 // Sets up hand and name for the player to
 public class Player {
-    private int score = 0; //initializes score to be incremented by
+    private int score = 0; // Initializes score to be incremented by
     private String name;
     private List<Card> hand = new ArrayList<>();
 
@@ -31,7 +31,7 @@ public class Player {
                 + "\nHand (" + descriptions.size() + " cards):\n" + String.join( "\n", descriptions)
                 + "\n";
     }
-//
+// Sets up flip method to be used in App file
     public Card flip() {
         return hand.removeFirst();
     }

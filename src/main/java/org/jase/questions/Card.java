@@ -37,7 +37,7 @@ public class Card {
         SUIT_NAMES.put(Suit.CLUBS, "Clubs");
         SUIT_NAMES.put(Suit.SPADES, "Spades");
     }
-//initializes value and suit for card name
+// Initializes value and suit for card name
     private int value;
     private Suit suit;
 // Instantiates value and suit to differentiate between variables and method parameters
