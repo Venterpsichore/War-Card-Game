@@ -35,4 +35,8 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store.idea/.gitignore
+.idea/misc.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/vcs.xml
