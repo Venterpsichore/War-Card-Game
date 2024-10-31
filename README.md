@@ -1,2 +1,2 @@
-# Week-06
+# War Card Game
 Week 6 Java Assignment
