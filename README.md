@@ -1,6 +1,7 @@
 # War Card Game
 Week 6 Java Assignment
 
+Well need the imports.
 
 '''
 Player player1 = new Player("Jase"); // Names players to draw and battle in the war to either win or lose
@@ -13,3 +14,7 @@ Player player1 = new Player("Jase"); // Names players to draw and battle in the 
                 player2.draw(deck);
             }
 '''
+
+
+LinkedIn: www.linkedin.com/in/jasevillarreal
+Email: charybdiskylla@gmail.com
